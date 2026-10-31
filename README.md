@@ -1,4 +1,65 @@
+StreamX – Your Entertainment, Your Way 🎬
+
+StreamX is an Android entertainment application designed to provide a modern, smooth, and user-friendly streaming experience.
+
+Featuring a premium interface, intuitive navigation, and a clean visual design, StreamX brings your entertainment experience together in one place.
+
+✨ Features
+
+- 🎬 Modern and premium user interface
+- 📱 Android-friendly experience
+- 🔍 Easy content discovery and navigation
+- 🌐 Online content integration
+- 🎨 Smooth animations and elegant design
+- ⚡ Simple and intuitive controls
+- 📺 Entertainment-focused experience
+
+📦 Download & Installation
+
+1. Download the latest "StreamX.apk" from the Assets section below.
+2. Open the downloaded APK on your Android device.
+3. Allow installation from your browser or file manager if Android requests permission.
+4. Complete installation and launch StreamX.
+
+📱 Compatibility
+
+- Platform: Android
+- Distribution: APK
+- Version: See release tag
+- Architecture: See APK build configuration
+
+👨‍💻 Developer
+
+Akhil Pal
+
+Instagram: https://www.instagram.com/iamakhil_yt/
+
+⚖️ Disclaimer
+
+StreamX is an independent project. It is not affiliated with or endorsed by any third-party streaming service.
+
+Users are responsible for ensuring that their use of external content sources complies with applicable copyright laws and service terms.
+
+❤️ Support the Project
+
+If you like StreamX:
+
+- Star ⭐ this repository.
+- Report bugs through GitHub Issues.
+- Share the project with others.
+
+StreamX – Entertainment in a New Experience.<img width="1600" height="720" alt="Screenshot_20261031_212038" src="https://github.com/user-attachments/assets/c86548e9-1c72-4174-8ecc-9bf5fb872700" />
+<img width="720" height="1600" alt="Screenshot_20261031_212022" src="https://github.com/user-attachments/assets/a580d5dc-9d97-4d39-aa51-3a5655ee8f92" />
+<img width="720" height="1600" alt="Screenshot_20261031_211951" src="https://github.com/user-attachments/assets/3960f06c-118d-4683-bae5-d93370c7253c" />
+<img width="720" height="1600" alt="Screenshot_20261031_211934" src="https://github.com/user-attachments/assets/1d7fbc2c-09f6-43fc-ab56-6798d2c8e448" />
+<img width="720" height="1600" alt="Screenshot_20261031_211849" src="https://github.com/user-attachments/assets/46ea9637-6ed4-48a8-8996-86b7fbd38856" />
+<img width="720" height="1600" alt="Screenshot_20261031_211827" src="https://github.com/user-attachments/assets/70d652d0-9941-43bf-873a-8868e2c88983" />
+<img width="720" height="1600" alt="Screenshot_20261031_211808" src="https://github.com/user-attachments/assets/3dbd16a7-8fbd-4b68-9a4e-dfa4a251e1c1" />
+<img width="720" height="1600" alt="Screenshot_20261031_211800" src="https://github.com/user-attachments/assets/91a057b8-6004-4745-88e8-55e5ada095d4" />
+<img width="720" height="1600" alt="Screenshot_20261031_211837" src="https://github.com/user-attachments/assets/ff8ff1d6-f289-40eb-8467-426870feb4fe" />
+
 # StreamX
+
 
 StreamX branding and redesign by **Akhil Pal**. Instagram: https://www.instagram.com/iamakhil_yt/
 
